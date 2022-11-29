@@ -1,2 +1,3 @@
-# bby-stealer-cracked
-Stupid skid selling this for 45$ enjoy the crack
+Server files for bypassing activation ONLY on iTunes, not the phone.
+
+Again, this server files DO NOT unlocks iDevice, only iTunes interface (When iCloud locked). Usefull for checking firmware version, IMEI, serial and other.
